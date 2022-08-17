@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ADMIN\source\repos\HashTable\HashTable\Source.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+  HashTable.vcxproj -> C:\Users\ADMIN\source\repos\HashTable\Debug\HashTable.exe
